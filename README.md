@@ -2,7 +2,7 @@
 CS 3502 Project 2- CPU Scheduling 
 
 ## Overview
-This project simulates two complex CPU Scheduling Algorithms in order to evaluate their performance under different workloads: Shortest Remaining Time First (SRTF) and Highest Response Raio Next (HRRN). The program was developed so that the two algorithms could be analyzed and measured in terms of efficiency, fairness, and responsiveness in process scheduling. 
+This project simulates two complex CPU Scheduling Algorithms in order to evaluate their performance under different workloads: Shortest Remaining Time First (SRTF) and Highest Response Ratio Next (HRRN). The program was developed so that the two algorithms could be analyzed and measured in terms of efficiency, fairness, and responsiveness in process scheduling. 
 
 ## Algorithms Implemented
 **SRTF (Shortest Remaining Time First)**: A preemptive scheduling algorithm that prioritizes the process with the shortest remaining burst time.
